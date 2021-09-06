@@ -5,9 +5,8 @@ ScholarsDict = {
     # The RoninPrivateKey should be parsed without the 0x
     
     # The following are placeholders...
-    '829972850726746576' : ['Scholars1 | xyZ', '0x22Aw4449332059577e6C48jD0811783A7d852abF','4r512g58s9g1j23365h8ef1h2g55c8nmu525w8d4fg3h2c115qf369s0ew4e2d48'],
-    '803436637857794788' : ['Scholars2 | xyZ', '0xj2FAD2365720zFb8j06450bE3b58a149676f9E93','m1e02qrc115qf369s0ew4e2g50wj5525w8d4fg3h2c115c8nmu51j23365h8eh1n']
+    '698092015237201990' : ['ghilo17 | Axie Pixel - Alpha', '0x3e108a8776613656ffafce31da3dc88c3538f016','2941c3d3756ff6a881472d9fcf4f1e0afd17cb0516bdc037a8f65c9be253b7b1'],
 
 }
 # Put Your Discord Bot Token Here
-DiscordBotToken = 'DFV9NTAyMDfDvdD1MDI0ODs7.HK-_4S.9dmfxFGtg_2s1-aMk-FCeDFsQfdV'
+DiscordBotToken = 'ODY1OTQxNjc1NzAzNjY0NjQz.YPLVBw.-nryO7d_1gzt_8yWim9dMDGqiPE'
