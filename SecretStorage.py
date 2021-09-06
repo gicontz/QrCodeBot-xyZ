@@ -14,6 +14,7 @@ ScholarsDict = {
     '880955785025310780' : ['Tristan | Axie Pixel - Zeta', '0xdd4ce073df32a00f3a0244ad27e50ba6e1e6a224','eb620fe457f65a6a2bfa2fc176b95cb8c4f0398eb37001084ecc4e66bf58689d'],
     '840098568627159042' : ['Jamil | Axie Pixel - Etha', '0x973132d42ec668720185c4eb1eef21c75e433a06','7e4bba4be90785f50ebf9ab030988e20569080347e29d666fed4ff98f0c6d8be'],
     '855547397487853598' : ['Carlo | Axie Pixel - Etha', '0xd47ca611a00a918ab5d2118910e7680fa6fd393a','8d740814494eba228c37a341db889d039a0e446786501438125e28483df8c587'],
+    '856362725399855124': ['Luis | Axie Pixel Gamma', '0xb34fd9e5b6f531282091519b90a038b01d9c9f98', '4218d6b2add78a8dbead2308442b3cb53f61ceb5052f64e8862f428018e01ce5']
 }
 # Put Your Discord Bot Token Here
 DiscordBotToken = os.environ.get('BOT_TOKEN')
