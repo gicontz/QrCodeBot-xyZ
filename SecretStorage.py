@@ -11,4 +11,4 @@ ScholarsDict = {
 
 }
 # Put Your Discord Bot Token Here
-DiscordBotToken = os.envi(BOT_TOKEN)
+DiscordBotToken = os.environ('BOT_TOKEN')
