@@ -1,3 +1,5 @@
+import os;
+
 ScholarsDict = {
     # 'DiscordID' : ['DiscordName', 'RoninWalletAddress', 'RoninPrivateKey']
 
@@ -9,4 +11,4 @@ ScholarsDict = {
 
 }
 # Put Your Discord Bot Token Here
-DiscordBotToken = 'ODY1OTQxNjc1NzAzNjY0NjQz.YPLVBw.-nryO7d_1gzt_8yWim9dMDGqiPE'
+DiscordBotToken = os.envi(BOT_TOKEN)
