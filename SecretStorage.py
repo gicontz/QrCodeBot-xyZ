@@ -15,6 +15,7 @@ ScholarsDict = {
     os.environ.get('ZETA_ISKO') : ['Tristan | Axie Pixel - Zeta', os.environ.get('ZETA_RONIN'), os.environ.get('ZETA_SK')],
     os.environ.get('ETA_ISKO') : ['Jamil | Axie Pixel - Etha', os.environ.get('ETA_RONIN'), os.environ.get('ETA_SK')],
     os.environ.get('THETA_ISKO') : ['Carlo | Axie Pixel - Etha', os.environ.get('THETA_RONIN'), os.environ.get('THETA_SK')],
+    os.environ.get('IOTA_ISKO') : ['Carlo | Axie Pixel - Etha', os.environ.get('IOTA_RONIN'), os.environ.get('IOTA_SK')],
 }
 # Put Your Discord Bot Token Here
 DiscordBotToken = os.environ.get('BOT_TOKEN')
